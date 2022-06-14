@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minnn0312
-- 👀 I’m a Cyber Security Engineer
+- 👀 I’m a DevOps Engineer
 - 🌱 Besides that, I also a Programmer, Cryptographer and System Engineer
 - 💞️ My job is to make the system secure and stability
 - 📫 You can contact me: Mail, Linkedln, Github
